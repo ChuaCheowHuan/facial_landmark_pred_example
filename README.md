@@ -6,11 +6,13 @@ learning & fine tuning with a 3rd party pretrained model.
 # What's in this repository?
 1. A series of notebooks which illustrates the conversion of the raw Helen
 dataset to multiple TFRecord files.
-a) See `tfrec_gen` folder.
-b) The `helen_ds_target_pd.ipynb` & `helen_ds_img_pds.ipynb` convert the
+
+- See `tfrec_gen` folder.
+- The `helen_ds_target_pd.ipynb` & `helen_ds_img_pds.ipynb` convert the
 annotation & images from the Helen dataset to pandas pickle files.
-c) The `helen_ds_img_target_pd_tfrec.ipynb` converts the pickle files to
+- The `helen_ds_img_target_pd_tfrec.ipynb` converts the pickle files to
 TFRecord files.
+
 2. A notebook illustrating transfer learning & fine tuning with a 3rd party
 pretrained model. See `transferLearn_fineTune.ipynb`.
 3. A Helper class that paints an overlay over the lips region of a facial
