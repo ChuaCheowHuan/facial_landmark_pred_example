@@ -73,8 +73,8 @@ directory.
 
 # Results:
 The fine tuning results on unseen test set:  
-![here](https://ibb.co/WxLxdrC).  
-The red overlay on the lips region are the ground truth while the blue ovelay
+![here](./saved_fig/saved-fig.png).  
+The red overlay on the lips region are the ground truth while the blue overlay
 is from the model's prediction.
 
 # Credits & References:

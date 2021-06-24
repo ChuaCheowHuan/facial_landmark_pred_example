@@ -130,4 +130,4 @@ dmypy.json
 
 tfrec_data/
 saved_model/
-saved_fig/
+#saved_fig/
