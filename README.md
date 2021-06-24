@@ -72,9 +72,10 @@ directory.
 ```
 
 # Results:
-You can view the fine tuning results on unseen test set
-[here](https://ibb.co/WxLxdrC). The red overlay on the lips region are the
-ground truth while the blue ovelay is from the model's prediction.
+The fine tuning results on unseen test set:  
+![here](https://ibb.co/WxLxdrC).  
+The red overlay on the lips region are the ground truth while the blue ovelay
+is from the model's prediction.
 
 # Credits & References:
 1) [Interactive Facial Feature Localization](http://www.ifp.illinois.edu/~vuongle2/helen/eccv2012_helen_final.pdf)
